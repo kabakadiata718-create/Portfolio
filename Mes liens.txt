@@ -1,0 +1,9 @@
+E-commerce: https://kabakadiata718-create.github.io/Kaba-Fashion/
+Table de multiplication: https://kabakadiata718-create.github.io/Tab-Khady-s/
+Formulaire d'inscription en ligne: https://kabakadiata718-create.github.io/E-inscription/
+Calculatrice de Budget: https://kabakadiata718-create.github.io/CalculatriceBudget/
+Générateur de mot de passe: https://kabakadiata718-create.github.io/GenerateurDePassword/
+Générateur de citation: https://kabakadiata718-create.github.io/Citation-Inspirante/
+Liste des Taches: https://kabakadiata718-create.github.io/listeDesTaches/
+Tableau Météo Fictif: https://kabakadiata718-create.github.io/MeteoFictif/
+
